@@ -1,0 +1,41 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+*.env
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+
+# Ignore generated outputs but keep placeholder
+game_template/outputs/*
+!game_template/outputs/.gitkeep
+
+game_template/screenshots/*
+!game_template/screenshots/.gitkeep

@@ -1,0 +1,9 @@
+{
+  "event": "unknown",
+  "ocr_results": {
+    "event_text": "",
+    "location_name": "4~6 ",
+    "quest_log": ""
+  },
+  "prompt": "Player entered { location_name }.\nSummarize the region's reputation or secret in a short, bard-like tone.\n"
+}

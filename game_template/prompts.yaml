@@ -1,0 +1,16 @@
+# prompts.yaml
+# Templates for AI prompts. Use {{ ... }} for OCR-injected variables.
+
+combat_tip: |
+  Player has just died in {{ location_name }}.
+  Status: {{ event_text }}
+  Objective: {{ quest_log }}
+  Give two practical survival tips and one in-character warning.
+
+quest_tip: |
+  Player has {{ event_text }} at {{ location_name }}.
+  Suggest a next step, and offer lore or trivia about the area.
+
+lore_drop: |
+  Player entered {{ location_name }}.
+  Summarize the region's reputation or secret in a short, bard-like tone.

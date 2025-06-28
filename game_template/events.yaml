@@ -1,0 +1,17 @@
+# events.yaml
+# List events and triggers for OCR output matching.
+
+- name: death_event
+  trigger_text: ["You Died", "Perished"]  # Edit these for your game's death message(s)
+  tags: ["combat", "failure"]
+  prompt_type: "combat_tip"
+
+- name: quest_completed
+  trigger_text: ["Quest Completed"]  # Change for your game's quest complete text
+  tags: ["quest", "success"]
+  prompt_type: "quest_tip"
+
+- name: location_entered
+  detect_zone: "location_name"  # Use a zone name from zones.json
+  tags: ["location", "exploration"]
+  prompt_type: "lore_drop"
