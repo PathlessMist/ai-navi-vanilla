@@ -69,10 +69,10 @@
 
 ## 🧪 Example Use Case
 
-> You’re playing a game with an intricate UI. When you open your inventory, a prompt zone is triggered that sends screen text to GPT, asking:  
-> “Analyze this loadout. What’s missing for a balanced mid-game build?”  
+> You're playing a game with an intricate UI. When you open your inventory, a prompt zone is triggered that sends screen text to GPT, asking:  
+> "Analyze this loadout. What's missing for a balanced mid-game build?"  
 >  
-> The LLM replies with specific suggestions—right as you’re thinking about your next move.
+> The LLM replies with specific suggestions-right as you're thinking about your next move.
 
 ---
 
@@ -86,12 +86,17 @@
 
 ---
 
-## 🧾 License
+## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Polyform Noncommercial License 1.0.0.  
+This means you are free to use, modify, and share the code for noncommercial purposes.  
+Commercial use is not permitted without prior permission from the author.
+
+See the [LICENSE](./LICENSE) file for full details.
 
 ---
 
 ## 🤝 Contributing
 
-Open to PRs, forks, and discussions. This project is meant to be remixed. Let’s build the future of narrative intelligence—together.
+Open to PRs, forks, and discussions. This project is intended for creative remixing and noncommercial experimentation.  
+Let's build the future of narrative intelligence-together, ethically and openly.
