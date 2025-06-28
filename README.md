@@ -1,6 +1,9 @@
 # AI-Navi Vanilla
 
 > 🧠 *Screen-aware AI companions for games and beyond.*
+![License: CC-BY-NC-4.0](https://img.shields.io/badge/License-CC--BY--NC--4.0-lightgrey.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)
 
 **AI-Navi Vanilla** is a lightweight framework for integrating AI assistant logic into visual environments using screen-based OCR and LLM prompts. Designed for modders, developers, and futurists, it enables an immersive, prompt-driven experience that overlays game state with intelligent feedback, prophecy-style prompts, or guidance narration.
 
